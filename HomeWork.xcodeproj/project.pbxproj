@@ -15,6 +15,7 @@
 		7A03B3442AB75C620051DEFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A03B3422AB75C620051DEFC /* LaunchScreen.storyboard */; };
 		7A03B34E2AB75D6C0051DEFC /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 7A03B34D2AB75D6C0051DEFC /* Alamofire */; };
 		7A03B3522AB760D10051DEFC /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A03B3512AB760D10051DEFC /* User.swift */; };
+		7A8AD43F2ABA3F4C00C0C7F1 /* Для Алексея in Resources */ = {isa = PBXBuildFile; fileRef = 7A8AD43E2ABA3F4C00C0C7F1 /* Для Алексея */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +28,7 @@
 		7A03B3432AB75C620051DEFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A03B3452AB75C620051DEFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A03B3512AB760D10051DEFC /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		7A1DB2E22ABA356A00C160F5 /* Для Алексея.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = "Для Алексея.md"; path = "../../Для Алексея.md"; sourceTree = "<group>"; };
+		7A8AD43E2ABA3F4C00C0C7F1 /* Для Алексея */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Для Алексея"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +67,7 @@
 				7A03B3502AB75F030051DEFC /* Storyboards */,
 				7A03B3402AB75C620051DEFC /* Assets.xcassets */,
 				7A03B34B2AB75C6B0051DEFC /* SupportingFiles */,
-				7A1DB2E22ABA356A00C160F5 /* Для Алексея.md */,
+				7A8AD43E2ABA3F4C00C0C7F1 /* Для Алексея */,
 			);
 			path = HomeWork;
 			sourceTree = "<group>";
@@ -170,6 +171,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A8AD43F2ABA3F4C00C0C7F1 /* Для Алексея in Resources */,
 				7A03B3442AB75C620051DEFC /* LaunchScreen.storyboard in Resources */,
 				7A03B3412AB75C620051DEFC /* Assets.xcassets in Resources */,
 				7A03B33F2AB75C610051DEFC /* Main.storyboard in Resources */,
